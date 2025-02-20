@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/chamindu-kaushalya-882a512b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chamindu-kaushalya-882a512b1" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/share/18jqy3awvg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/18jqy3awvg/" height="30" width="40" /></a>
-<a href="[https://instagram.com/https://www.instagram.com/.chamii.?igsh=mxv6mwcyem4wbhm1bq==](https://www.instagram.com/__.chamii.__/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/.chamii.?igsh=mxv6mwcyem4wbhm1bq==" height="30" width="40" /></a>
+<a href="[https://instagram.com/https://www.instagram.com/.chamii.?igsh=mxv6mwcyem4wbhm1bq==](https://www.instagram.com/__.chamii.__/==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/.chamii.?igsh=mxv6mwcyem4wbhm1bq==" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
